@@ -7,7 +7,7 @@ package com.driver;
 }
    class B extends A{
     public String meth(){
-        return "Invoking method from class A";
+        return"Method is overridden in Extendend class B";
     }
 }
 public class Main {
